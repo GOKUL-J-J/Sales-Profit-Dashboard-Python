@@ -61,6 +61,20 @@ Created the following visualizations:
 * Business Insight Generation
 * Data Visualization using Matplotlib
 
+## Results Overview
+
+### Output
+![Output](output.png)
+
+### Monthly Sales
+![Monthly Sales](monthly_sales.png)
+
+### Profit Category
+![Profit Category](profit_by_category.png)
+
+### Regional Sales
+![Regional Sales](regional_sales.png)
+
 ## Project Structure
 
 ```text
